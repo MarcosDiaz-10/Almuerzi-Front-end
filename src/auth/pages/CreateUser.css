@@ -1,0 +1,17 @@
+.btn-login-position {
+    position: inherit;
+}
+
+.border-color-red {
+    border-color: red;
+    box-shadow: 0 0 0 0.2rem rgba(255, 51, 51, 0.432);
+}
+
+.border-color-red:focus {
+    border-color: red;
+    box-shadow: 0 0 0 0.2rem rgba(255, 51, 51, 0.432);
+}
+
+.color-text-error {
+    color: red
+}

@@ -1,0 +1,15 @@
+.fab {
+    border-radius: 60%;
+    bottom: 30px;
+    font-size: 57px;
+    padding: 0px;
+    position: fixed;
+    right: 25px;
+    height: 90px;
+    width: 87px;
+}
+
+.card:hover {
+    box-shadow:  5px 5px 35px rgb(192, 190, 190);
+    cursor: pointer;
+}
