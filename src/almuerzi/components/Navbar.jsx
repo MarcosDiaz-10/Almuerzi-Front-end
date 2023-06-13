@@ -13,7 +13,7 @@ export const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-sm navbar-dark bg-dark p-2">
         <div className="navbar-brand">
-            <img src='../../../assets/ImagenEditada.jpg' alt={  user.name } width="60" height="auto" style={{ borderRadius: '50px'}} className="d-inline-block align-text-top "/>
+            <img src='https://cdn-icons-png.flaticon.com/512/3177/3177440.png' alt={  user.name } width="60" height="auto" style={{ borderRadius: '50px'}} className="d-inline-block align-text-top "/>
             <h6 className="p-1">{ user.name }</h6>
         </div>
         <div className="navbar-collapse">
